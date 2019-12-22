@@ -1,0 +1,17 @@
+{
+  "name": "bimosprog/lesson3",
+  "description": "Test package for otus lesson 3",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "UMasyr",
+      "email": "antispam@protected.mail"
+    }
+  ],
+  "require": {
+    "php" : "~7.2"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
